@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Muller';
+    src: 
+        url('MullerRegular.woff2') format('woff2'),
+        url('MullerRegular.woff') format('woff'),
+        url('MullerRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Muller';
+    src:
+        url('MullerBold.woff2') format('woff2'),
+        url('MullerBold.woff') format('woff'),
+        url('MullerBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Muller';
+    src: 
+        url('MullerMedium.woff2') format('woff2'),
+        url('MullerMedium.woff') format('woff'),
+        url('MullerMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Phonk-Sans';
+    src: 
+        url('PhonkSans-Bold.otf') format('opentype'),
+        url('PhonkSans-Bold.woff') format('woff');
+    font-weight: 700;
+    font-size: normal;
+}
+
+@font-face {
+    font-family: 'Phonk-Sans';
+    src: 
+        url('PhonkSans-Regular.otf') format('opentype'),
+        url('PhonkSans-Regular.woff') format('woff');
+    font-weight: 400;
+    font-size: normal;
+}
+
